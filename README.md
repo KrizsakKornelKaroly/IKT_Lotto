@@ -1,2 +1,2 @@
 # IKT_Lotto
-szia
+https://krizsakkornelkaroly.github.io/IKT_Lotto/
