@@ -1,3 +1,10 @@
-ul {
-   list-style-type: none; 
+ul{
+   color: white;
+   list-style-type: none;
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: #424242;
+}
+a{
+   text-decoration: none;
+   color: white;
 }
