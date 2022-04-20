@@ -1,8 +1,10 @@
 ul{
    list-style-type: none;
    font-family: Arial, Helvetica, sans-serif;
-   width: 400px;
+   width: 450px;
    background-color: #444444;
+   height: 480px;
+   font-size:medium;
 }
 a{
    text-decoration: none;
@@ -11,5 +13,11 @@ a{
 hr.menuvonal {
    border-bottom: 1px solid #494949;
    border-top: 1px solid #3d3d3d;
+   
+}
+li{
+   text-align:justify;
+   height: 20px;
+   text-indent: 1px;
 }
 /* Képszélesség 400px! */
