@@ -5,6 +5,7 @@ ul{
    background-color: #444444;
    height: 480px;
    font-size:medium;
+   float: left;
 }
 a{
    text-decoration: none;
@@ -20,4 +21,3 @@ li{
    height: 20px;
    text-indent: 1px;
 }
-/* Képszélesség 400px! */
