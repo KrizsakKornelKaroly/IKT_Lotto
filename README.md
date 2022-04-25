@@ -6,4 +6,4 @@ https://krizsakkornelkaroly.github.io/IKT_Lotto/
 - 04/04: Alap weboldal elkészítése, formázása css-ben, css betöltése az alapba, grafikonok.html létrehozása, a többi .html fájl létrehozása
 - 04/11: Mindegyik oldalon menüformázás, hatter.jpg feltöltése
 - 04/20: Excel táblázat formázása, weboldal formázása CSS-el, háttér megvágása, menüformázás
-- 04/24: Varga Zoltánnak feladatok kiosztva és átrendezve, több feladat kiosztva, szakaszolás és képbeszúrás, 
+- 04/24: Varga Zoltánnak feladatok kiosztva és átrendezve, több feladat kiosztva, szakaszolás és képbeszúrás.
