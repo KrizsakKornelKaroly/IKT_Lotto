@@ -6,6 +6,7 @@ ul{
    height: 700px;
    font-size:medium;
    float: left;
+   position: absolute;
 }
 a{
    text-decoration: none;
@@ -21,4 +22,3 @@ li{
    height: 20px;
    text-indent: 1px;
 }
-
