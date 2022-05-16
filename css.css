@@ -6,7 +6,7 @@ ul{
    height: 700px;
    font-size:medium;
    float: left;
-
+   position: absolute;
 }
 a{
    text-decoration: none;
