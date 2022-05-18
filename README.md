@@ -10,3 +10,4 @@ https://krizsakkornelkaroly.github.io/IKT_Lotto/
 - 05/04: CSS fejlesztés, golyo_lila.png; golyo_kek.png; ... feltöltése, hatter.jpg bal oldalra való elhelyezése.
 - 05/16: CSS bugfix, Varga Zoltán felmentve feladatok alól.
 - 05/17: Háttér szerkesztése, oldal formázása, menü formázása.
+- 05/18: CSS fejlesztés, 
