@@ -27,7 +27,8 @@ body {
    background-repeat: no-repeat;
    background-color: white;
 }
-#hatter_lista{
+.hatter_lista{
    background-color: #444444;
    float: left;
+   width: 30%;
 }
