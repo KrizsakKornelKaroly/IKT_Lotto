@@ -8,4 +8,5 @@ https://krizsakkornelkaroly.github.io/IKT_Lotto/
 - 04/20: Excel táblázat formázása, weboldal formázása CSS-el, háttér megvágása, menüformázás.
 - 04/24: Varga Zoltánnak feladatok kiosztva és átrendezve, több feladat kiosztva, szakaszolás és képbeszúrás.
 - 05/04: CSS fejlesztés, golyo_lila.png; golyo_kek.png; ... feltöltése, hatter.jpg bal oldalra való elhelyezése.
-- 05/16: CSS bugfix, 
+- 05/16: CSS bugfix, Varga Zoltán felmentve feladatok alól.
+- 05/17: Háttér szerkesztése, oldal formázása, menü formázása.

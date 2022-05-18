@@ -7,6 +7,7 @@ ul{
    font-size:medium;
    float: left;
    position: absolute;
+   padding-top: 20px;
 }
 a{
    text-decoration: none;
@@ -19,12 +20,14 @@ hr.menuvonal {
 }
 li{
    text-align:justify;
-   height: 20px;
-   text-indent: 1px;
+   height: 30px;
 }
 
 body {
-   background-image: url(hatter.jpg);
    background-repeat: no-repeat;
    background-color: white;
+}
+#hatter_lista{
+   background-color: #444444;
+   float: left;
 }
