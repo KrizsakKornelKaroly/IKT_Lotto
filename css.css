@@ -2,7 +2,6 @@ html{
    margin: 0;
 }
 
-
 ul{
    margin: 0;
    list-style-type: none;
@@ -13,6 +12,8 @@ ul{
    font-size:medium;
    float: left;
    position: absolute;
+   top: 454px;
+   left: 0px;
    padding-top: 20px;
 }
 a{
@@ -33,6 +34,12 @@ body {
    background-color: #444444;
    float: left;
    width: 30%;
+}
+
+.hatter {
+   position:absolute;
+   left: 0px;
+   top: 0px;
 }
 
 li:before {
