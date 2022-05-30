@@ -33,7 +33,7 @@ body {
 .hatter_lista{
    background-color: #444444;
    float: left;
-   width: 30%;
+   width: 40%;
 }
 
 .hatter {
@@ -51,4 +51,11 @@ li:before {
    display: block;
    max-width: 445px;
    margin-left: -20px;
+}
+#golyo_szam{
+   position: relative;
+   float:right;
+   width: 60%;
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
 }
