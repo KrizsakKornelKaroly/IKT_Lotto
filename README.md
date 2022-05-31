@@ -12,4 +12,5 @@ https://krizsakkornelkaroly.github.io/IKT_Lotto/
 - 05/17: Háttér szerkesztése, oldal formázása, menü formázása.
 - 05/18: CSS fejlesztés, margin bugfix, excel műveletek, menüformázás.
 - 05/23: CSS fejlesztés, menü tökéletesítése, excel műveletek (utolsó két nyertes, leggyakoribb számsorok).
-- 05/30: Golyók elhelyezése, minden .html fájl egységesítése, tartalom egy részének elkészzítése, legkisebb     összegű számok megkeresve.
+- 05/30: Golyók elhelyezése, minden .html fájl egységesítése, tartalom egy részének elkészzítése, legkisebb összegű számok megkeresve, 3 oldalon lévő golyók számozása.
+- 05/31: Golyók számozásának folytatása, maradék adat beírása, Excel műveletek, lapelrendezés.

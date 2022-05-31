@@ -63,3 +63,14 @@ li:before {
 .golyo_z {
    width: 130px;
 }
+
+.golyo_a {
+   width: 130px;
+   position: relative;
+   top: 40px;
+   left: 0px;
+}
+
+h3 {
+   font-size: 200%;
+}
