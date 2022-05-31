@@ -74,3 +74,10 @@ li:before {
 h3 {
    font-size: 200%;
 }
+
+.g_gyak, .g_nyer {
+   width: 70%;
+   position: relative;
+   top: 40px;
+   left: 500px;
+}
