@@ -52,7 +52,7 @@ li:before {
    max-width: 445px;
    margin-left: -20px;
 }
-#golyo_szam {
+#golyo_szam, #tortenetek {
    position: relative;
    float:right;
    width: 60%;
